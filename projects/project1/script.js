@@ -239,6 +239,10 @@ $("#image1").on("click",function() {
         "padding": "10px",
     })
     $("#startButton").html("Final Score:")
+    $("main").rotate({
+      angle: 0,
+      animateTo: 360,
+    })
   } else {
     score++;
     score++;
@@ -263,6 +267,10 @@ $("#image2").on("click",function() {
         "padding": "10px",
     })
     $("#startButton").html("Final Score:")
+        $("main").rotate({
+      angle: 0,
+      animateTo: 360,
+    })
   } else {
     score++;
     score++;
@@ -287,6 +295,10 @@ $("#image3").on("click",function() {
         "padding": "10px",
     })
     $("#startButton").html("Final Score:")
+        $("main").rotate({
+      angle: 0,
+      animateTo: 360,
+    })
   } else {
     score++;
     score++;
@@ -311,6 +323,10 @@ $("#image4").on("click",function() {
         "padding": "10px",
     })
     $("#startButton").html("Final Score:")
+        $("main").rotate({
+      angle: 0,
+      animateTo: 360,
+    })
   } else {
     score++;
     score++;
@@ -335,6 +351,10 @@ $("#image5").on("click",function() {
         "padding": "10px",
     })
     $("#startButton").html("Final Score:")
+        $("main").rotate({
+      angle: 0,
+      animateTo: 360,
+    })
   } else {
     score++;
     score++;
@@ -359,6 +379,10 @@ $("#image6").on("click",function() {
         "padding": "10px",
     })
     $("#startButton").html("Final Score:")
+        $("main").rotate({
+      angle: 0,
+      animateTo: 360,
+    })
   } else {
     score++;
     score++;
@@ -383,6 +407,10 @@ $("#image7").on("click",function() {
         "padding": "10px",
     })
     $("#startButton").html("Final Score:")
+        $("main").rotate({
+      angle: 0,
+      animateTo: 360,
+    })
   } else {
     score++;
     score++;
@@ -407,6 +435,10 @@ $("#image8").on("click",function() {
         "padding": "10px",
     })
     $("#startButton").html("Final Score:")
+        $("main").rotate({
+      angle: 0,
+      animateTo: 360,
+    })
   } else {
     score++;
     score++;
@@ -431,6 +463,10 @@ $("#image9").on("click",function() {
         "padding": "10px",
     })
     $("#startButton").html("Final Score:")
+        $("main").rotate({
+      angle: 0,
+      animateTo: 360,
+    })
   } else {
     score++;
     score++;
